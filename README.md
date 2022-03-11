@@ -3,4 +3,4 @@ A simple top down 2D RPG game demo
 
 ![image](https://user-images.githubusercontent.com/60242731/157788728-391a4dba-f566-4ddd-ad94-e18cab4028e1.png)
 
-Art(Asset) Credit: Game Endeavor - https://game-endeavor.itch.io/mystic-woods
+Art Credit: Game Endeavor - https://game-endeavor.itch.io/mystic-woods
